@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 d6bbdaa2a4f083345d468663978c98bb67ee5a7d WIlliams Adaji-Agbane <williamsadaji2017@gmail.com> 1772012738 +0100	commit (initial): Initial Folder Setup
-d6bbdaa2a4f083345d468663978c98bb67ee5a7d 2e32f02055fcf72a061dcfbc3261c1a683bb9604 WIlliams Adaji-Agbane <williamsadaji2017@gmail.com> 1772016267 +0100	commit: Switched from Notebook to Python Scripts + Added setup.py
-2e32f02055fcf72a061dcfbc3261c1a683bb9604 6b8d2df52c1cdc009682fda0ee487d20cd405a21 WIlliams Adaji-Agbane <williamsadaji2017@gmail.com> 1772016405 +0100	commit: Added Data Preparation Python Script
-6b8d2df52c1cdc009682fda0ee487d20cd405a21 3693ba965c10f2c652051cd58c205bf03f52cf8a WIlliams Adaji-Agbane <williamsadaji2017@gmail.com> 1772016477 +0100	commit: Added Feature Engineering Python Script
-3693ba965c10f2c652051cd58c205bf03f52cf8a 787b13d26fba3f9a513c4fb3550541e317544204 WIlliams Adaji-Agbane <williamsadaji2017@gmail.com> 1772016539 +0100	commit: Added Data Splitting Python Script
-787b13d26fba3f9a513c4fb3550541e317544204 d692ce352ed3de14b67e6faad67278e11e5db3e9 WIlliams Adaji-Agbane <williamsadaji2017@gmail.com> 1772020109 +0100	commit: Finally resolved on the right project structure
-d692ce352ed3de14b67e6faad67278e11e5db3e9 8070b3f3de29b64847a995f32671f762817f305e WIlliams Adaji-Agbane <williamsadaji2017@gmail.com> 1772044705 +0100	commit: Completed the Project

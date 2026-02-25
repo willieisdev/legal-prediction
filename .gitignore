@@ -4,5 +4,6 @@ models/
 venv
 output.txt
 notebooks
+results
 __pycache__
 
