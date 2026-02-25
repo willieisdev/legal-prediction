@@ -1,0 +1,8 @@
+models/
+*.joblib
+*.npy
+venv
+output.txt
+notebooks
+__pycache__
+
